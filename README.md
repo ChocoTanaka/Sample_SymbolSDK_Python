@@ -3,6 +3,6 @@ SymbolSDK_Pythonを使用して実行ファイルを作るときに加筆する�
 
 加筆後は
 
-*Pyinstaller --clean アプリ名.spec*
+**pyinstaller --clean アプリ名.spec**
 
 で実行ファイルを実行すること
